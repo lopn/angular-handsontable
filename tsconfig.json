@@ -19,7 +19,7 @@
       "dom"
     ],
     "paths": {
-      "@handsontable/angular": [
+      "@handsontable6/angular": [
         "dist/ce"
       ],
       "@handsontable-pro/angular": [

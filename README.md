@@ -26,7 +26,7 @@
 ## Installation
 Use npm to download the project.
 ```bash
-npm install handsontable @handsontable/angular
+npm install handsontable @handsontable6/angular
 ```
 A package scope for Handsontable Pro users:
 ```bash
@@ -50,7 +50,7 @@ Assuming that you have installed the wrapper with npm, now you just need to incl
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
-import { HotTableModule } from '@handsontable/angular';
+import { HotTableModule } from '@handsontable6/angular';
  
 @NgModule({
   declarations: [
